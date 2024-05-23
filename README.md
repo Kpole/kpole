@@ -8,6 +8,8 @@
 - Intalligent Distributed Storage System
 - traditional algorithm
 
-📑 Blog：kpole.github.io[https://kpole.github.io/]
+📑 Blog：[kpole.github.io](https://kpole.github.io/)
+
+:herb: WeChat：H--1625
 
 📮 Email: [kiritohyd@gmail.com](kiritohyd@gmail.com)

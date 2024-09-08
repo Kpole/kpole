@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🏫 Third-year master's student majoring in Computer Architecture at [HUST](https://www.hust.edu.cn/)
+A C++ engineer with a master's degree from [HUST](https://www.hust.edu.cn/), specializing in the storage field.
 
 🤔 Interested in
 
